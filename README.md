@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/CubeGPT/CubeAgents/blob/master/banner.jpeg?raw=true"/>
-<img src="https://img.shields.io/badge/Builder-GPT-blue">
+<img src="https://img.shields.io/badge/Cube-Agents-blue">
 <a href="https://github.com/CubeGPT/BuilderGPT/pulls"><img src="https://img.shields.io/badge/PRs-welcome-20BF20"></a>
 <img src="https://img.shields.io/badge/License-Apache-red">
 <a href="https://discord.gg/kTZtXw8s7r"><img src="https://img.shields.io/discord/1212765516532289587
